@@ -1,0 +1,36 @@
+player 1 1
+ghost 15 15
+ghost 17 17
+ghost 26 1
+ghost 26 28
+
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+X * * * * * * * * * * * * X X * * * * * * * * * * * * X
+X * X X X X * X X X X X * X X * X X X X X * X X X X * X
+X * X X X X * X X X X X * X X * X X X X X * X X X X * X
+X * X X X X * X X X X X * X X * X X X X X * X X X X * X
+X * * * * * * * * * * * * * * * * * * * * * * * * * * X
+X * X X X X * X X * X X X X X X X X * X X * X X X X * X
+X * X X X X * X X * X X X X X X X X * X X * X X X X * X
+X * * * * * * X X * * * * X X * * * * X X * * * * * * X
+X X X X X X * X X X X X 0 X X 0 X X X X X * X X X X X X
+X X X X X X * X X X X X 0 X X 0 X X X X X * X X X X X X
+X X X X X X * X X 0 0 0 0 0 0 0 0 0 0 X X * X X X X X X
+X X X X X X * X X 0 X 0 X 0 0 X 0 X 0 X X * X X X X X X
+X X X X X X * X X 0 0 0 0 0 0 0 0 0 0 X X * X X X X X X
+X X X X X X * 0 0 0 X 0 0 0 0 0 0 X 0 0 0 * X X X X X X
+X X X X X X * X X 0 0 0 0 0 0 0 0 0 0 X X * X X X X X X
+X X X X X X * X X 0 X 0 X X X X 0 X 0 X X * X X X X X X
+X X X X X X * X X 0 0 0 0 0 0 0 0 0 0 X X * X X X X X X
+X X X X X X * X X 0 X X X X X X X X 0 X X * X X X X X X
+X * * * * * * * * * * * * X X * * * * * * * * * * * * X
+X * X X X X * X X X X X * X X * X X X X X * X X X X * X
+X * X X X X * X X X X X * X X * X X X X X * X X X X * X
+X * * * X X * * * * * * * 0 0 * * * * * * * X X * * * X
+X X X * X X * X X * X X X X X X X X * X X * X X * X X X
+X X X * X X * X X * X X X X X X X X * X X * X X * X X X
+X * * * * * * X X * * * * X X * * * * X X * * * * * * X
+X * X X X X X X X X X X * X X * X X X X X X X X X X * X
+X * X X X X X X X X X X * X X * X X X X X X X X X X * X
+X * * * * * * * * * * * * * * * * * * * * * * * * * * X
+X X X X X X X X X X X X X X X X X X X X X X X X X X X X
